@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.ruff_cache
+rag_nepali_news.db
+document.json
+txt_to_csv.py

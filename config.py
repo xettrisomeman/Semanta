@@ -1,0 +1,5 @@
+URI = "./rag_nepali_news.db"
+COLLECTION_NAME = "nepali_news"
+EMBEDDING_MODEL = "Snowflake/snowflake-arctic-embed-s"
+RERANKING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+FILE_PATH = "document.json"
