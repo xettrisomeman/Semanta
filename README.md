@@ -1,9 +1,15 @@
 Source: https://github.com/sharad461/english-corpus-nepal
 
+
 Create a `.env` file and add `cohere_api_key`
 
     COHERE_API_KEY=<your_key>
 
+Do:
+
+``
+pip install -r requirements.txt
+``
 Run:
 
 ``
